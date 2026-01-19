@@ -1,0 +1,3 @@
+[submodule "apps-hq"]
+	path = apps-hq
+	url = https://github.com/facuHannoch/apps-hq.git
